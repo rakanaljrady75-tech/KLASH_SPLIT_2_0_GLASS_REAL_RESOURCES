@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.klash.split'; compileSdk 35
+ defaultConfig { applicationId 'com.klash.split'; minSdk 23; targetSdk 35; versionCode 20; versionName "2.0 Premium" }
+}
