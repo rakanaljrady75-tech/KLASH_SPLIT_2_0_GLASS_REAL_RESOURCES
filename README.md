@@ -1,0 +1,2 @@
+# KLASH_SPLIT_2_0_GLASS_REAL_RESOURCES
+Flutter project created by KLENCOD IDE
